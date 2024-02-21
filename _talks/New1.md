@@ -45,6 +45,11 @@ location: "北京"
 
 ## 测试视频播放
 
-<video width="500" height="300" controls>
+<!-- <video width="500" height="300" controls -->
+<video controls
+style="
+    width: 100%;
+    height: 100%;"
+>
   <source src="{{site.url}}/movie/qwe.mp4"  type="video/mp4">
 </video>
