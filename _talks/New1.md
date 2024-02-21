@@ -12,26 +12,26 @@ location: "北京"
 2019年11月16日-17日，“无微不智2019”全国微型智能无人机挑战赛在北京市平谷区举行。我校无人系统研究院代表队以绝对优势获得室内自主精准穿越项目一等奖。
 
 <div style="text-align: center;">
-  <img src="/images/A1.png"/>
+  <img src="{{site.url}}/images/A1.png"/>
   <p>无人系统研究院参赛队伍合影</p>
 </div>
 
 11月16日上午，北京市平谷区、中关村科技园区管理委员会等单位的领导及中国工程院樊邦奎院士出席开幕式，随后比赛拉开帷幕。挑战赛以“微型、智能、创新”为主题，内容包括智能飞行赛、高速精准穿越赛和技术成果展。旨在通过赛事高效推动无人机智能化发展水平，激发社会主体开展前沿关键技术研发热情，促进微型无人机在室内陌生环境下的广泛应用。有来自全国高校、科研单位和无人机企业近30家代表队参赛。
 
 <div style="text-align: center;">
-  <img src="/images/A2.png"/>
+  <img src="{{site.url}}/images/A2.png"/>
   <p>挑战赛开幕式</p>
 </div>
 
 北航无人系统研究院派出由李大伟、杨炯、李红光三位老师和冯永超、李展博、李烜烨、田雨豪四位研究生组成的代表队。11月16日下午至11月17日，各参赛队伍进行了预赛和决赛的激烈角逐。自动组精准穿越项目，要求无人机全自主、以大于7m/s的速度穿过1号固定圆环靶、2号随机圆环靶和3号平行运动方形靶。
 
 <div style="text-align: center;">
-  <img src="/images/A3.png"/>
+  <img src="{{site.url}}/images/A3.png"/>
   <p>精准穿越赛场地示意图</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/A4.png"/>
+  <img src="{{site.url}}/images/A4.png"/>
   <p>精准穿越赛场地实拍图</p>
 </div>
 
@@ -46,5 +46,5 @@ location: "北京"
 ## 测试视频播放
 
 <video width="500" height="300" controls>
-  <source src="/movie/qwe.mp4"  type="video/mp4">
+  <source src="{{site.url}}/movie/qwe.mp4"  type="video/mp4">
 </video>
