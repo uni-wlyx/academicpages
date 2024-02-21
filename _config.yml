@@ -145,7 +145,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - movie
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
