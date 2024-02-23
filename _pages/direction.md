@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "研究方向"
-permalink: /publications/
+permalink: /direction/
 author_profile: true
 ---
 
