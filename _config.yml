@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "zh-ch"
-title                    : "Your Name / Site Title"
+title                    : "个人主页"
 title_separator          : "-"
-name                     : &name "林"
+name                     : &name "林凯鑫"
 description              : &description "personal description"
 url                      : https://uni-wlyx.github.io/wlyx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,18 +21,20 @@ repository               : "uni-wlyx/wlyx.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img.png"
-  name             : "林"
+  avatar           : "identification.png"
+  name             : "李红光"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "北京"
-  employer         : "北京航空航天大学"
+  bio              : "博导，副研究员<br/>北京航空航天大学"
+  location         : #"北京"
+  employer         : #"北京航空航天大学"
   uri              : # URL
-  email            : "787@qq.com" 
+  email            : "lihongguang@buaa.edu.cn" 
+  buaa             : "https://shi.buaa.edu.cn/lihongguang/zh_CN/index/19042/list/index.htm"
+  baidu            : "https://xueshu.baidu.com/scholarID/CN-BV734UFJ"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

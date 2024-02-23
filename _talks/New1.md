@@ -2,7 +2,7 @@
 title: "我校无人系统研究院赢得“无微不智2019”全国微型智能无人机挑战赛一等奖"
 collection: 无人机
 type: "获奖"
-# permalink: /talks/第一篇
+permalink: /talks/New1
 # venue: "UC San Francisco, Department of Testing"
 date: 2019-11-17
 location: "北京"
