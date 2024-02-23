@@ -25,6 +25,7 @@ C4ISR是现代军事的自动化指挥系统，由C4（指挥command、控制con
 
 ## 研究方向涉及的关键点分解
 
+<br/>
 <div style="text-align: center;">
   <img src="{{site.url}}/images/Key_points_of_research_direction.png"/>
   <p>研究方向应用示意图</p>
