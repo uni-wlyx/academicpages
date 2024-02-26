@@ -13,11 +13,24 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" onclick="alinkClicked">{{ link.title }}</a></li>
           {% endfor %}
+        
+          <!-- <li class="mes" -->
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+
+  function alinkClicked(){
+      var value = document.documentElement.style.getPropertyPriority("--clicked");
+      value = true;
+      value.value = true;
+      alert(value);
+  }
+
+</script>
